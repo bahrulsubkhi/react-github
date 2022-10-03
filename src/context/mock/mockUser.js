@@ -18,7 +18,7 @@ const mockUser= {
 	type: "User",
 	site_admin: false,
 	name: "M Bahrul Subkhi",
-	company: null,
+	company: "Aplikasi Super",
 	blog: "atapdev.com",
 	location: null,
 	email: null,
