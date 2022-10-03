@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Navbar = () => {
 	return (
 		<Wrapper>
-			<h3>Welcome</h3>
+			<h3>Welcome Search Github</h3>
 		</Wrapper>
 	);
 };
